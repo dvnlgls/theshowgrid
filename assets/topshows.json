@@ -1,0 +1,77 @@
+[
+  {
+    "SeriesName": "Breaking Bad",
+    "Year": "2008",
+    "SeriesID": "tt0903747"
+  },
+  {
+    "SeriesName": "The Office",
+    "Year": "2005",
+    "SeriesID": "tt0386676"
+  },
+  {
+    "SeriesName": "Game of Thrones",
+    "Year": "2011",
+    "SeriesID": "tt0944947"
+  },
+  {
+    "SeriesName": "Parks and Recreation",
+    "Year": "2009",
+    "SeriesID": "tt1266020"
+  },
+  {
+    "SeriesName": "Better Call Saul",
+    "Year": "2015",
+    "SeriesID": "tt3032476"
+  },
+  {
+    "SeriesName": "Community",
+    "Year": "2009",
+    "SeriesID": "tt1439629"
+  },
+  {
+    "SeriesName": "Brooklyn Nine-Nine",
+    "Year": "2013",
+    "SeriesID": "tt2467372"
+  },
+  {
+    "SeriesName": "Stranger Things",
+    "Year": "2016",
+    "SeriesID": "tt4574334"
+  },
+  {
+    "SeriesName": "Rick and Morty",
+    "Year": "2013",
+    "SeriesID": "tt2861424"
+  },
+  {
+    "SeriesName": "Friends",
+    "Year": "1994",
+    "SeriesID": "tt0108778"
+  },
+  {
+    "SeriesName": "Seinfeld",
+    "Year": "1989",
+    "SeriesID": "tt0098904"
+  },
+  {
+    "SeriesName": "Westworld",
+    "Year": "2016",
+    "SeriesID": "tt0475784"
+  },
+  {
+    "SeriesName": "Mad Men",
+    "Year": "2007",
+    "SeriesID": "tt0804503"
+  },
+  {
+    "SeriesName": "Black Mirror",
+    "Year": "2011",
+    "SeriesID": "tt2085059"
+  },
+  {
+    "SeriesName": "BoJack Horseman",
+    "Year": "2014",
+    "SeriesID": "tt3398228"
+  }
+]
